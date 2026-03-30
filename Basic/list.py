@@ -7,4 +7,8 @@ print(list2)
 print(list)
 list.append(3)
 print(list)
+list.insert(4, 100)
+print(list)
+list.remove("80")
+print(list)
 
